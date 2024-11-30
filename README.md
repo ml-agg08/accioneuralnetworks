@@ -1,4 +1,4 @@
-# **Bigraph Language Model in PyTorch**
+# **1. Bigraph Language Model in PyTorch**
 
 **A simple implementation of a bigraph language model from scratch, inspired by Andrej Karpathy's tutorial.**
 
