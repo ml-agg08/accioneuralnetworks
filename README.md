@@ -105,3 +105,8 @@ A huge thank you to [Andrej Karpathy](https://youtube.com/@andrejkarpathy) for h
 ## **Contributing**
 
 Feel free to fork this repository and make improvements! Open a pull request to share your ideas.
+
+
+# **2. MLP Language Model in PyTorch (yet another time with characters)**
+
+didnt get time to create a readme during exams ;)
