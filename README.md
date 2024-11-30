@@ -110,3 +110,4 @@ Feel free to fork this repository and make improvements! Open a pull request to 
 # **2. MLP Language Model in PyTorch (yet another time with characters)**
 
 didnt get time to create a readme during exams ;)
+but feel free to check my notebook meanwhile.
